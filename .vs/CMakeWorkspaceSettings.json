@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "comp371_all\\comp371_raytracerbase\\code"
+}
